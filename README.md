@@ -1,4 +1,4 @@
-### Hi there 👋
+Ola!! Meu nome é Artur Porto, nesse perfil mostro minha jornada no universo da computação, aqui compartilho meus conhecimentos em aprendizagem de máquina, Desenvolvimento Web, Data Science e tudo que posso aprender!.  Desenvolvendo projetos em Python, HTML, CSS e Javascript.  Sempre buscando e explorar novas áreas e aprofundar os conhecimentos ja obtidos.
 
 ##
 
